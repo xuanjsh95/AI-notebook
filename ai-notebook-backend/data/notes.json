@@ -1,0 +1,243 @@
+[
+  {
+    "id": "2",
+    "title": "工作1号",
+    "content": "工作使我快乐",
+    "content_text": "工作使我快乐",
+    "excerpt": "工作使我快乐",
+    "notebook_id": "1",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": true,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 6,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T08:25:43.369Z",
+    "updated_at": "2025-08-27T08:25:43.369Z"
+  },
+  {
+    "id": "3",
+    "title": "我是一条笔记",
+    "content": "耶耶耶",
+    "content_text": "耶耶耶",
+    "excerpt": "耶耶耶",
+    "notebook_id": "1",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 3,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T09:52:14.802Z",
+    "updated_at": "2025-08-27T09:52:14.802Z"
+  },
+  {
+    "id": "4",
+    "title": "专注摸鱼",
+    "content": "摸鱼万岁",
+    "content_text": "摸鱼万岁",
+    "excerpt": "摸鱼万岁",
+    "notebook_id": "1",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T09:52:53.452Z",
+    "updated_at": "2025-08-27T09:52:53.452Z"
+  },
+  {
+    "id": "5",
+    "title": "摸鱼快乐",
+    "content": "耶耶耶",
+    "content_text": "耶耶耶",
+    "excerpt": "耶耶耶",
+    "notebook_id": "2",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 3,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T09:54:22.604Z",
+    "updated_at": "2025-08-27T09:54:22.604Z"
+  },
+  {
+    "id": "6",
+    "title": "专注摸鱼",
+    "content": "哼哼哈嘿",
+    "content_text": "哼哼哈嘿",
+    "excerpt": "哼哼哈嘿",
+    "notebook_id": "1",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": true,
+    "is_archived": false,
+    "is_deleted": true,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:00:51.393Z",
+    "updated_at": "2025-08-27T10:41:52.241Z",
+    "deleted_at": "2025-08-27T10:01:31.886Z"
+  },
+  {
+    "id": "6",
+    "title": "专注摸鱼",
+    "content": "哼哼哈嘿",
+    "content_text": "哼哼哈嘿",
+    "excerpt": "哼哼哈嘿",
+    "notebook_id": "1",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:01:13.195Z",
+    "updated_at": "2025-08-27T10:01:13.195Z"
+  },
+  {
+    "id": "6",
+    "title": "摸鱼万岁",
+    "content": "啊啊啊啊",
+    "content_text": "啊啊啊啊",
+    "excerpt": "啊啊啊啊",
+    "notebook_id": "2",
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:02:19.834Z",
+    "updated_at": "2025-08-27T10:02:19.834Z"
+  },
+  {
+    "id": "6",
+    "title": "我是一条正经笔记",
+    "content": "你说得对",
+    "content_text": "你说得对",
+    "excerpt": "你说得对",
+    "notebook_id": null,
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:35:59.647Z",
+    "updated_at": "2025-08-27T10:35:59.647Z"
+  },
+  {
+    "id": "6",
+    "title": "我是一条正经笔记",
+    "content": "你说得对",
+    "content_text": "你说得对",
+    "excerpt": "你说得对",
+    "notebook_id": null,
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:41:49.488Z",
+    "updated_at": "2025-08-27T10:41:49.488Z"
+  },
+  {
+    "id": "6",
+    "title": "我是正经笔记",
+    "content": "你说得对",
+    "content_text": "你说得对",
+    "excerpt": "你说得对",
+    "notebook_id": null,
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:48:05.246Z",
+    "updated_at": "2025-08-27T10:48:05.246Z"
+  },
+  {
+    "id": "6",
+    "title": "笔记呢？",
+    "content": "不见了",
+    "content_text": "不见了",
+    "excerpt": "不见了",
+    "notebook_id": null,
+    "user_id": "1",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 3,
+      "reading_time": 1
+    },
+    "created_at": "2025-08-27T10:48:47.071Z",
+    "updated_at": "2025-08-27T10:48:47.071Z"
+  },
+  {
+    "id": "7",
+    "title": "今天天气真好",
+    "content": "你说得对",
+    "content_text": "你说得对",
+    "excerpt": "你说得对",
+    "notebook_id": "1",
+    "user_id": "67f26ecd-47e5-41f0-b435-2757f6662524",
+    "tags": [],
+    "status": "draft",
+    "is_favorite": false,
+    "is_archived": false,
+    "is_deleted": false,
+    "metadata": {
+      "word_count": 4,
+      "reading_time": 1
+    },
+    "created_at": "2025-09-03T12:00:10.330Z",
+    "updated_at": "2025-09-03T12:00:10.330Z"
+  }
+]

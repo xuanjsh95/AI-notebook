@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "工作笔记",
+    "description": "好好工作",
+    "color": "#1890ff",
+    "user_id": "1",
+    "is_shared": false,
+    "created_at": "2025-08-27T08:16:38.709Z",
+    "updated_at": "2025-08-27T08:24:34.444Z",
+    "note_count": 0
+  },
+  {
+    "id": "2",
+    "title": "摸鱼笔记",
+    "description": "专注摸鱼",
+    "color": "#ff6b6b",
+    "user_id": "1",
+    "is_shared": false,
+    "created_at": "2025-08-27T08:21:59.038Z",
+    "updated_at": "2025-08-27T08:24:09.828Z",
+    "note_count": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "16b78c3c-5a6b-45fc-b1a8-964fa1e141fc",
+    "name": "Kimi AI",
+    "baseUrl": "https://api.moonshot.cn/v1",
+    "apiKey": "sk-iIKEwXOgTS550IqMQuprjlSqBU06zjk0Z2YVEJSAM6K3vuoY",
+    "models": [
+      "moonshot-v1-8k",
+      "moonshot-v1-32k",
+      "moonshot-v1-128k"
+    ],
+    "userId": "67f26ecd-47e5-41f0-b435-2757f6662524",
+    "createdAt": "2025-09-03T11:00:07.545Z",
+    "updatedAt": "2025-09-03T11:00:07.549Z"
+  }
+]
