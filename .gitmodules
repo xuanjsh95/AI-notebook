@@ -1,0 +1,3 @@
+[submodule "ai-notebook-frontend"]
+	path = ai-notebook-frontend
+	url = ./ai-notebook-frontend
