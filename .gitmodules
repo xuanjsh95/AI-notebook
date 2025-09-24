@@ -1,3 +1,3 @@
 [submodule "ai-notebook-frontend"]
 	path = ai-notebook-frontend
-	url = ./ai-notebook-frontend
+	url = https://github.com/xuanjsh95/AI-note-book.git
